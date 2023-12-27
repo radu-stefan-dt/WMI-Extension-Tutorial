@@ -1,3 +1,7 @@
+# This repository is now archived. Its content has become part of the official Dynatrace Documentation. Browse it [here](https://docs.dynatrace.com/docs/extend-dynatrace/extensions20/data-sources/wmi-extensions/wmi-tutorial).
+
+---
+
 # WMI-Extension-Tutorial
 A step by step tutorial for a simple Dynatrace (WMI) Extension 2.0
 
